@@ -4,11 +4,7 @@ Este é um projeto desenvolvido para BeMobile, que permite visualizar e filtrar 
 
 ---
 
-<br/>
-
 ## Tecnologias Utilizadas
-
----
 
 - `ReactJS`- Biblioteca principal para o desenvolvimento da interface de usuário
 - `TypeScript`- Adiciona tipagem estática aos dados, melhorando a robustez e a manutenção do código
@@ -19,11 +15,7 @@ Este é um projeto desenvolvido para BeMobile, que permite visualizar e filtrar 
 
 ---
 
-<br/>
-
 ## Pré-requisitos
-
----
 
 Antes de rodar o projeto, você precisa ter o instalado em sua máquina:
 
@@ -32,11 +24,7 @@ Antes de rodar o projeto, você precisa ter o instalado em sua máquina:
 
 ---
 
-<br/>
-
 ## Como Rodar o Projeto
-
----
 
 ### 1. Clonar o repositório
 
@@ -68,11 +56,7 @@ npm run dev
 ```
 --- 
 
-<br/>
-
 ## Funcionalidades
-
----
 
 - Exibição de funcionários: Lista todos os funcionários com suas respectivas informações (nome, cargo, data de admissão e telefone).
 - Filtro de pesquisa: Permite pesquisar funcionários por nome, cargo ou telefone.
@@ -81,11 +65,7 @@ npm run dev
 
 ---
 
-<br/>
-
 ## 🚀 Links para Contato
-
----
 
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/daniel.csxx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Danielcsxx)
