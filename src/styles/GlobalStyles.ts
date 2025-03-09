@@ -13,10 +13,9 @@ const GlobalStyle = createGlobalStyle`
   body {
     font-family: 'Roboto', sans-serif;
     background-color: #E0E0E0;
-
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h1 {
     font-family: 'Montserrat', sans-serif;
   }
 `;

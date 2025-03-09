@@ -34,9 +34,9 @@ const SearchContainer = styled.div`
     max-width: 287px;
 
     @media (max-width: 768px) {
-    width: 100%;
-    max-width: 400px;
-}
+        width: 100%;
+        max-width: 400px;
+    }
 `;
 
 const SearchInput = styled.input`
@@ -74,7 +74,6 @@ const SearchBar: React.FC<SearchBarProps> = ({ onSearch }) => {
                     type="text"
                     placeholder="Pesquisar"
                     onChange={(event) => onSearch(event.target.value)}
-
                 />
                 <SearchIcon src={`/img/SearchIcon.png`}/>
             </SearchContainer>

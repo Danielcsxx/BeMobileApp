@@ -41,8 +41,7 @@ const TableHeader = styled.div`
     max-width: 400px;
     position: relative;
   }
-
-  `;
+`;
 
 const Cell = styled.div`
   padding: 6px;
@@ -106,6 +105,7 @@ const App: React.FC = () => {
         console.error("Erro ao carregar os funcionários: ", error);
       }
     };
+    
     fetchEmployees();
   }, []);
 

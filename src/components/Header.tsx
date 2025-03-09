@@ -23,7 +23,6 @@ const HeaderLogo = styled.img`
 `;
 
 const Header: React.FC = () => {
-
     return (
         <HeaderDiv>
             <HeaderLogo
